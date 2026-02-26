@@ -1,0 +1,66 @@
+Redesign the current "Analysis Result" page into a proper "Farm Intelligence Dashboard" screen for the JalMitra smart irrigation app.
+
+Goal:
+Make it look like a real data-driven agricultural analytics dashboard, not just a result page.
+
+Design Style:
+- Clean mobile-first layout
+- Modern agri-tech startup feel
+- Soft green background theme
+- Rounded cards with subtle shadows
+- Clear data hierarchy
+- Not cluttered
+
+Change page title to:
+Farm Intelligence Dashboard
+
+Remove repetitive large alert card at top.
+Instead, structure the page as follows:
+
+1) Top Summary Status Card
+- Title: Today's Irrigation Status
+- Status: High Irrigation Required (with red/orange/green dynamic color)
+- Short explanation: Soil moisture below optimal threshold
+- Decision Confidence: 87%
+- Small colored status badge
+
+2) Weekly Water Savings Card (Highlight Card)
+- Title: Weekly Water Saved
+- Value: 450 Liters
+- Subtext: 12% more efficient than last week
+- Add simple horizontal bar or small chart style visual
+
+3) Irrigation History Section
+- Title: Irrigation History
+- Show last 3 entries:
+   - Feb 21 – Moderate Irrigation
+   - Feb 23 – No Irrigation
+   - Feb 25 – High Irrigation Required
+- Use small status color dots beside each entry
+
+4) Soil Health Score Card
+- Title: Soil Health Score
+- Circular progress indicator showing 82/100
+- Subtext: Stable moisture balance maintained
+
+5) Farm Efficiency Score Card
+- Title: Farm Efficiency Rating
+- Score: 87%
+- Short description: Based on irrigation timing, water usage, and climate data
+- Use a progress bar
+
+6) Add Bottom Action Buttons
+Primary Button: Run System Diagnostics
+Secondary Button: Start New Analysis
+
+Make sure:
+- Data is clearly separated into cards
+- Use green for positive metrics
+- Orange for moderate
+- Red only for critical alerts
+- Spacing is consistent
+- Text is readable for non-technical farmers
+
+Avoid too much text.
+Focus on metrics, trends, and insights.
+Make it feel like a smart agriculture monitoring system.

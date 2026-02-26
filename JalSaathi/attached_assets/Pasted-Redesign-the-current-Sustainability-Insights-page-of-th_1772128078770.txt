@@ -1,0 +1,64 @@
+Redesign the current "Sustainability Insights" page of the JalMitra smart irrigation app.
+
+Goal:
+Make this page focus on long-term environmental impact, sustainability trends, and responsible water usage — not daily irrigation decisions.
+
+This page should feel like a sustainability analytics report, separate from the operational dashboard.
+
+Design Style:
+- Clean mobile-first layout
+- Soft green and earthy tones
+- Rounded cards with subtle shadows
+- Calm, environmental feel
+- Minimal text, metric-focused
+- Data visualization elements preferred
+
+Keep page title:
+Sustainability Insights
+
+Redesign structure as follows:
+
+1) Seasonal Water Conservation Card (Top Highlight)
+- Title: Total Water Saved This Season
+- Value: 3,250 Liters
+- Subtext: Equivalent to 13 household water tanks
+- Small water-themed visual or comparison indicator
+
+2) Monthly Efficiency Trend
+- Title: 30-Day Efficiency Trend
+- Text: Efficiency improved by 9% this month
+- Add small upward trend arrow
+- Include simple mini line graph or bar visual
+
+3) Environmental Impact Score
+- Title: Sustainability Score
+- Score: 84/100
+- Circular progress indicator
+- Breakdown:
+   - Water Conservation: Good
+   - Soil Moisture Balance: Stable
+   - Over-Irrigation Risk: Low
+
+4) Soil Stability Trend Card
+- Title: Soil Moisture Stability
+- Status: Balanced
+- Text: No prolonged over-irrigation detected
+- Add subtle indicator graphic
+
+5) Energy & Resource Savings Card (Optional but impressive)
+- Title: Energy Saved
+- Value: 18 kWh
+- CO₂ Reduction Estimate: 4.2 kg
+- Small eco-friendly icon
+
+6) Insight Summary Section
+- Title: Sustainability Recommendation
+- Short statement:
+  "Current irrigation strategy is environmentally sustainable. Continue monitoring moisture levels during high temperature weeks."
+
+Avoid repeating daily irrigation results here.
+Focus on long-term impact, trends, and environmental responsibility.
+Use green for positive metrics.
+Avoid red unless critical.
+Keep spacing clean and modern.
+Make it feel like a smart agri-tech sustainability monitoring system.
